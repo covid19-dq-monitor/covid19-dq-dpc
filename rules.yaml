@@ -1,0 +1,47 @@
+rules:
+- expr: is_unique(denominazione_regione)
+  name: 'SC0: unicità regioni'
+  
+- expr: nrow(.) == 21
+  name: 'SC1: completezza regioni'
+- expr: 'delta_totale_casi >= 0'
+  name: 'NN0: delta casi non negativo'
+  description: |
+    'Il totale dei casi non può diminuire'
+
+- expr: 'delta_dimessi_guariti >= 0'
+  name: 'NN1: delta guariti non negativi'
+  description: |
+   'I guariti non possono diminuire'
+
+- expr: 'delta_deceduti >= 0'
+  name: 'NN2: delta decessi non negativo'
+
+- expr: 'delta_tamponi > 0'
+  name: 'NN3: tamponi > 0'
+  
+- expr: 'delta_casi_screening >= 0'
+  name: 'NN4: casi da screening >= 0'
+  
+- expr: 'delta_casi_sospetto >= 0'
+  name: 'NN5: casi da sospetto diagnostico >= 0'
+  
+- expr: 'delta_totale_casi <= delta_tamponi'
+  name: 'CC0: casi nuovi <= tamponi nuovi'
+  description: |
+    'I casi non possono crescere in misura superiore ai tamponi'
+- expr: 'delta_casi_testati <= delta_tamponi'
+  name: 'CC1: testati nuovi <= tamponi nuovi'
+  description: |
+    'I casi testati non possono essere maggiori dei tamponi'
+    
+- expr: '(delta_casi_screening + delta_casi_sospetto) <= delta_casi_testati'
+  name: 'CC2: casi testati < casi da sospetto + casi da screening'
+  description: |
+   'Il totale dei casi testati non può essere superiore alla somma di sospetto diagnostico e screening'
+
+- expr: '(ricoverati_con_sintomi + terapia_intensiva) == totale_ospedalizzati'
+  name: 'CC3: ricoverati + terapia_intensiva == totale_ospedalizzati'
+
+- expr: 'delta_totale_casi == delta_totale_casi_cons'
+  name: 'CC4: totale casi regione coerente con totale casi per provincia'

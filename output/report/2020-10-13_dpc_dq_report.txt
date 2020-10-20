@@ -1,0 +1,31 @@
+
+##############################################################
+##################  SUMMARY  #################################
+##############################################################
+
+
+                                                              name items passes fails nNA error warning                                                           expression
+1                                             SC0: unicità regioni    21     21     0   0 FALSE   FALSE                                     is_unique(denominazione_regione)
+2                                         SC1: completezza regioni     1      1     0   0 FALSE   FALSE                                                        nrow(.) == 21
+3                                     NN0: delta casi non negativo    21     21     0   0 FALSE   FALSE                                    (delta_totale_casi - 0) >= -1e-08
+4                                  NN1: delta guariti non negativi    21     20     1   0 FALSE   FALSE                                (delta_dimessi_guariti - 0) >= -1e-08
+5                                  NN2: delta decessi non negativo    21     21     0   0 FALSE   FALSE                                       (delta_deceduti - 0) >= -1e-08
+6                                                 NN3: tamponi > 0    21     21     0   0 FALSE   FALSE                                                    delta_tamponi > 0
+7                                 CC0: casi nuovi <= tamponi nuovi    21     21     0   0 FALSE   FALSE                         (delta_totale_casi - delta_tamponi) <= 1e-08
+8                              CC1: testati nuovi <= tamponi nuovi    21     21     0   0 FALSE   FALSE                        (delta_casi_testati - delta_tamponi) <= 1e-08
+9         CC2: casi testati < casi da sospetto + casi da screening    21     21     0   0 FALSE   FALSE   (delta_casi_screening + delta_casi_sospetto) <= delta_casi_testati
+10     CC3: ricoverati + terapia_intensiva == totale_ospedalizzati    21     21     0   0 FALSE   FALSE (ricoverati_con_sintomi + terapia_intensiva) == totale_ospedalizzati
+11 CC4: totale casi regione coerente con totale casi per provincia    21     21     0   0 FALSE   FALSE              abs(delta_totale_casi - delta_totale_casi_cons) < 1e-08
+
+
+
+##############################################################
+##################  DETAILS  #################################
+##############################################################
+
+
+Details: ------ Check NN1: delta guariti non negativi --------
+
+                 data denominazione_regione ricoverati_con_sintomi terapia_intensiva totale_ospedalizzati delta_ricoverati delta_terapia_intensiva delta_ospedalizzati delta_isolamento_domiciliare delta_casi_testati delta_deceduti delta_casi_screening delta_casi_sospetto delta_totale_positivi delta_dimessi_guariti delta_totale_casi delta_tamponi delta_totale_casi_cons
+1 2020-10-13 17:00:00               Abruzzo                    146                15                  161                9                       4                  13                          134               1795              0                   45                 101                   147                    -1               146          2877                    146
+------------------------------------------------
