@@ -106,7 +106,11 @@ for (d in unique(delta$data)[2:length(unique(delta$data))]) {
   } else {
     append <- union(append, x)
   }
+  if(d == unique(delta$data)[length(unique(delta$data))]){
+    latest <- x
+  }
 }
  append <- append %>% mutate(date = as.POSIXct(date, origin = "1970-01-01", tz= "GMT")) %>%
 	 readr::write_csv("output/failed-checks-history.csv")
+ latest %>% write.csv("output/failed-checks-latest.csv")
  
