@@ -8,7 +8,7 @@ nfails <- sum(summary(results_delta)$fails)
 if(nfails == 0) {
   centro <- "Nessun check ha dato errore."
 } else if (nfails == 1) {
-  centro <- paste(nfails, "check ha dato errore!")
+  centro <- paste(nfails, "check ha dato errore.")
 } else {
-  centro <- paste(nfails, "check hanno dato errore!")
+  centro <- paste(nfails, "check hanno dato errore.")
 }
