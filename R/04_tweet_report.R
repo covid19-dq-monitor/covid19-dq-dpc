@@ -4,11 +4,6 @@ library(RCurl)
 library(rtweet)
 library(gridExtra)
 
-# create tabular picture
-
-png("/tmp/latest.png", width=480,height=480,bg = "white")
-grid.table(latest)
-dev.off()
 
 string <- readr::read_file(filename)
 api_dev_key <- "NiorPulLlq9Hxp_DmnjAjdhXrJLgTrt_"
@@ -44,4 +39,12 @@ link <- paste("I risultati sono scaricabili da", p)
 ttweet <- paste(salutation, centro, link)
 ttweet
 
-post_tweet(ttweet, media ="/tmp/latest.png")
+if(exists(latest)){
+  png("/tmp/latest.png", width=480,height=480,bg = "white")
+  grid.table(latest)
+  dev.off()
+  
+  post_tweet(ttweet, media ="/tmp/latest.png")
+} else {
+  post_tweet(ttweet)
+}

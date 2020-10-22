@@ -1,598 +1,598 @@
 date,failed_check,region
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Basilicata
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Campania
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Lazio
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Molise
-2020-02-25T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-02-25T18:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Piemonte
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Puglia
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Sicilia
-2020-02-25T18:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-02-25T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
-2020-02-25T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Sicilia
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Basilicata
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Campania
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Lazio
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Lombardia
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Molise
-2020-02-26T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-02-26T18:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Puglia
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Sicilia
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Umbria
-2020-02-26T18:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-02-26T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lombardia
-2020-02-27T18:00:00Z,NN0: delta casi non negativo,Piemonte
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Basilicata
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Campania
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Molise
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Piemonte
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Puglia
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Sicilia
-2020-02-27T18:00:00Z,NN3: tamponi > 0,Umbria
-2020-02-27T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Campania
-2020-02-27T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lombardia
-2020-02-27T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Puglia
-2020-02-27T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Sicilia
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Basilicata
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Molise
-2020-02-28T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-02-28T18:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Sicilia
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Umbria
-2020-02-28T18:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-02-28T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Marche
-2020-02-29T17:00:00Z,NN3: tamponi > 0,Molise
-2020-02-29T17:00:00Z,NN3: tamponi > 0,Sardegna
-2020-02-29T17:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-02-29T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Liguria
-2020-03-01T17:00:00Z,NN0: delta casi non negativo,Liguria
-2020-03-01T17:00:00Z,NN3: tamponi > 0,Campania
-2020-03-01T17:00:00Z,NN3: tamponi > 0,Liguria
-2020-03-01T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Campania
-2020-03-02T18:00:00Z,NN0: delta casi non negativo,Liguria
-2020-03-02T18:00:00Z,NN0: delta casi non negativo,Sicilia
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Basilicata
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Campania
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Liguria
-2020-03-02T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-02T18:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-03-02T18:00:00Z,NN3: tamponi > 0,Umbria
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Calabria
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Liguria
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Molise
-2020-03-03T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-03T18:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-03-03T18:00:00Z,NN3: tamponi > 0,Sicilia
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Abruzzo
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Liguria
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Molise
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-03T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Sardegna
-2020-03-04T17:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-04T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-04T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-05T17:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-05T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-05T17:00:00Z,NN3: tamponi > 0,Piemonte
-2020-03-05T17:00:00Z,NN3: tamponi > 0,Sicilia
-2020-03-05T17:00:00Z,NN3: tamponi > 0,Toscana
-2020-03-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lombardia
-2020-03-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Piemonte
-2020-03-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Toscana
-2020-03-06T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-03-06T17:00:00Z,NN3: tamponi > 0,Campania
-2020-03-06T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-06T17:00:00Z,NN3: tamponi > 0,Sicilia
-2020-03-06T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Abruzzo
-2020-03-06T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Campania
-2020-03-06T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-06T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Sicilia
-2020-03-07T18:00:00Z,NN3: tamponi > 0,Friuli Venezia Giulia
-2020-03-07T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-07T18:00:00Z,NN3: tamponi > 0,Puglia
-2020-03-07T18:00:00Z,NN3: tamponi > 0,Sardegna
-2020-03-07T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-03-07T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
-2020-03-07T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Puglia
-2020-03-08T18:00:00Z,NN3: tamponi > 0,Calabria
-2020-03-08T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-08T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Calabria
-2020-03-09T18:00:00Z,NN0: delta casi non negativo,Piemonte
-2020-03-09T18:00:00Z,NN3: tamponi > 0,Campania
-2020-03-09T18:00:00Z,NN3: tamponi > 0,Lazio
-2020-03-09T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-09T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Campania
-2020-03-09T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-03-09T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,Veneto
-2020-03-10T18:00:00Z,NN3: tamponi > 0,P.A. Bolzano
-2020-03-10T18:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
-2020-03-11T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-03-11T17:00:00Z,NN3: tamponi > 0,Lazio
-2020-03-11T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-03-12T17:00:00Z,NN1: delta guariti non negativi,Calabria
-2020-03-12T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-03-13T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-03-13T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Basilicata
-2020-03-13T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Piemonte
-2020-03-14T17:00:00Z,NN1: delta guariti non negativi,Puglia
-2020-03-14T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-03-15T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-03-15T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-15T17:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-03-15T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-03-15T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-15T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
-2020-03-16T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-16T17:00:00Z,NN3: tamponi > 0,Puglia
-2020-03-17T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-03-17T17:00:00Z,NN3: tamponi > 0,Marche
-2020-03-17T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Marche
-2020-03-18T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-03-18T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-03-18T17:00:00Z,NN3: tamponi > 0,Campania
-2020-03-18T17:00:00Z,NN3: tamponi > 0,Friuli Venezia Giulia
-2020-03-18T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Basilicata
-2020-03-18T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-03-19T17:00:00Z,NN3: tamponi > 0,Friuli Venezia Giulia
-2020-03-19T17:00:00Z,NN3: tamponi > 0,Lazio
-2020-03-19T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-03-19T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-03-19T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-20T17:00:00Z,NN3: tamponi > 0,Molise
-2020-03-20T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Molise
-2020-03-21T17:00:00Z,NN1: delta guariti non negativi,Campania
-2020-03-21T17:00:00Z,NN3: tamponi > 0,Lazio
-2020-03-21T17:00:00Z,NN3: tamponi > 0,P.A. Trento
-2020-03-21T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-03-21T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
-2020-03-23T17:00:00Z,NN2: delta decessi non negativo,Calabria
-2020-03-23T17:00:00Z,NN3: tamponi > 0,Molise
-2020-03-23T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Molise
-2020-03-24T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-03-24T17:00:00Z,NN3: tamponi > 0,Lazio
-2020-03-24T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-03-26T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
-2020-03-29T17:00:00Z,NN3: tamponi > 0,Emilia-Romagna
-2020-03-29T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
-2020-03-30T17:00:00Z,NN3: tamponi > 0,Emilia-Romagna
-2020-03-30T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
-2020-04-03T17:00:00Z,NN1: delta guariti non negativi,Campania
-2020-04-05T17:00:00Z,NN3: tamponi > 0,Molise
-2020-04-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Lazio
-2020-04-05T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Molise
-2020-04-10T17:00:00Z,NN3: tamponi > 0,Molise
-2020-04-10T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Molise
-2020-04-12T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-04-14T17:00:00Z,NN3: tamponi > 0,Molise
-2020-04-15T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-04-17T17:00:00Z,NN0: delta casi non negativo,Calabria
-2020-04-17T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-04-18T17:00:00Z,NN1: delta guariti non negativi,Molise
-2020-04-18T17:00:00Z,NN3: tamponi > 0,Molise
-2020-04-19T17:00:00Z,NN1: delta guariti non negativi,Umbria
-2020-04-20T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-04-20T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-04-21T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-04-21T17:00:00Z,NN2: delta decessi non negativo,Valle d'Aosta
-2020-04-22T17:00:00Z,NN1: delta guariti non negativi,Campania
-2020-04-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-04-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-24T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-04-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Lazio
-2020-04-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
-2020-04-26T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-04-26T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Abruzzo
-2020-04-26T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sicilia
-2020-04-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Veneto
-2020-04-28T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-29T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-04-29T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-29T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sicilia
-2020-05-01T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-01T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
-2020-05-02T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-05-02T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-05-03T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-05-03T17:00:00Z,NN3: tamponi > 0,Molise
-2020-05-04T17:00:00Z,NN0: delta casi non negativo,Sardegna
-2020-05-04T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-05-04T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-05-06T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-05-06T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sicilia
-2020-05-07T17:00:00Z,NN0: delta casi non negativo,Basilicata
-2020-05-07T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Lazio
-2020-05-07T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
-2020-05-08T17:00:00Z,NN0: delta casi non negativo,Basilicata
-2020-05-08T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
-2020-05-08T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Lombardia
-2020-05-09T17:00:00Z,NN1: delta guariti non negativi,Molise
-2020-05-09T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-10T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-05-10T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-10T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sicilia
-2020-05-11T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-11T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sicilia
-2020-05-13T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-14T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-05-15T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-05-16T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-05-18T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Campania
-2020-05-18T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
-2020-05-19T17:00:00Z,NN0: delta casi non negativo,Marche
-2020-05-19T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
-2020-05-20T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Marche
-2020-05-22T17:00:00Z,NN1: delta guariti non negativi,P.A. Trento
-2020-05-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-05-25T17:00:00Z,NN0: delta casi non negativo,Sardegna
-2020-05-26T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-05-28T17:00:00Z,NN1: delta guariti non negativi,Umbria
-2020-05-29T17:00:00Z,NN2: delta decessi non negativo,Marche
-2020-05-29T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,P.A. Bolzano
-2020-05-30T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-06-01T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Abruzzo
-2020-06-01T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-06-01T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Umbria
-2020-06-02T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-04T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-06-04T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-06-05T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-06T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-06-07T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Campania
-2020-06-08T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-06-08T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
-2020-06-09T17:00:00Z,NN0: delta casi non negativo,Sardegna
-2020-06-11T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-06-12T17:00:00Z,NN0: delta casi non negativo,Campania
-2020-06-12T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-06-12T17:00:00Z,NN2: delta decessi non negativo,P.A. Bolzano
-2020-06-15T17:00:00Z,NN0: delta casi non negativo,P.A. Bolzano
-2020-06-15T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-06-15T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-06-18T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-19T17:00:00Z,NN0: delta casi non negativo,Abruzzo
-2020-06-19T17:00:00Z,NN0: delta casi non negativo,Sicilia
-2020-06-20T17:00:00Z,NN1: delta guariti non negativi,Umbria
-2020-06-21T17:00:00Z,NN1: delta guariti non negativi,Veneto
-2020-06-22T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-06-22T17:00:00Z,NN1: delta guariti non negativi,Veneto
-2020-06-22T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-06-22T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Marche
-2020-06-22T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-06-23T17:00:00Z,NN0: delta casi non negativo,Sardegna
-2020-06-23T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-06-23T17:00:00Z,NN3: tamponi > 0,Valle d'Aosta
-2020-06-23T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
-2020-06-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Lazio
-2020-06-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
-2020-06-24T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-06-24T17:00:00Z,NN2: delta decessi non negativo,P.A. Trento
-2020-06-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-25T17:00:00Z,NN2: delta decessi non negativo,Marche
-2020-06-26T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-06-26T17:00:00Z,NN4: casi da screening >= 0,Marche
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Emilia-Romagna
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Toscana
-2020-06-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
-2020-06-27T17:00:00Z,NN1: delta guariti non negativi,Umbria
-2020-06-27T17:00:00Z,NN4: casi da screening >= 0,Marche
-2020-06-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-06-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-06-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-06-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-06-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-06-28T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-06-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-06-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-06-29T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Calabria
-2020-06-29T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-06-29T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-06-29T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-06-30T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Lombardia
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-06-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Toscana
-2020-07-01T17:00:00Z,NN0: delta casi non negativo,Puglia
-2020-07-01T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-01T17:00:00Z,NN2: delta decessi non negativo,Marche
-2020-07-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-02T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
-2020-07-02T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sardegna
-2020-07-03T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-03T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-07-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-05T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-07-05T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-07-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Basilicata
-2020-07-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-05T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sardegna
-2020-07-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-06T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-07-06T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sardegna
-2020-07-07T17:00:00Z,NN0: delta casi non negativo,Puglia
-2020-07-07T17:00:00Z,NN1: delta guariti non negativi,Sardegna
-2020-07-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-08T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Emilia-Romagna
-2020-07-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
-2020-07-10T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-10T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-10T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Umbria
-2020-07-12T17:00:00Z,NN1: delta guariti non negativi,Campania
-2020-07-12T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-07-12T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-07-12T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-12T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-12T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
-2020-07-13T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-13T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-07-14T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-14T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-07-14T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-14T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Lombardia
-2020-07-14T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-14T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-15T17:00:00Z,NN0: delta casi non negativo,Basilicata
-2020-07-15T17:00:00Z,NN1: delta guariti non negativi,Basilicata
-2020-07-15T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-15T17:00:00Z,NN4: casi da screening >= 0,Basilicata
-2020-07-15T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-15T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-15T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-16T17:00:00Z,NN1: delta guariti non negativi,P.A. Bolzano
-2020-07-16T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-16T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-17T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-17T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-18T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-18T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-19T17:00:00Z,NN0: delta casi non negativo,Marche
-2020-07-19T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-07-19T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-07-19T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Marche
-2020-07-19T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-19T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Basilicata
-2020-07-19T17:00:00Z,CC2: casi testati < casi da sospetto + casi da screening,Basilicata
-2020-07-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-20T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-07-21T17:00:00Z,NN0: delta casi non negativo,Puglia
-2020-07-21T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-21T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-22T17:00:00Z,NN0: delta casi non negativo,Abruzzo
-2020-07-22T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-22T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-22T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-22T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sardegna
-2020-07-23T17:00:00Z,NN4: casi da screening >= 0,Molise
-2020-07-23T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-23T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-07-25T17:00:00Z,NN1: delta guariti non negativi,Piemonte
-2020-07-25T17:00:00Z,NN1: delta guariti non negativi,Puglia
-2020-07-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-07-26T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-07-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-07-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-26T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Campania
-2020-07-26T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-07-27T17:00:00Z,NN0: delta casi non negativo,Sardegna
-2020-07-27T17:00:00Z,NN1: delta guariti non negativi,Friuli Venezia Giulia
-2020-07-27T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-07-27T17:00:00Z,NN4: casi da screening >= 0,Sardegna
-2020-07-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-27T17:00:00Z,CC0: casi nuovi <= tamponi nuovi,Abruzzo
-2020-07-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Abruzzo
-2020-07-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
-2020-07-27T17:00:00Z,CC2: casi testati < casi da sospetto + casi da screening,Abruzzo
-2020-07-28T17:00:00Z,NN0: delta casi non negativo,P.A. Bolzano
-2020-07-28T17:00:00Z,NN1: delta guariti non negativi,Veneto
-2020-07-28T17:00:00Z,NN2: delta decessi non negativo,Sardegna
-2020-07-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,P.A. Bolzano
-2020-07-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-29T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-31T17:00:00Z,NN1: delta guariti non negativi,Liguria
-2020-07-31T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-07-31T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Lombardia
-2020-07-31T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-07-31T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Sardegna
-2020-08-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-08-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
-2020-08-03T17:00:00Z,NN4: casi da screening >= 0,Friuli Venezia Giulia
-2020-08-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-03T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-08-04T17:00:00Z,NN4: casi da screening >= 0,Valle d'Aosta
-2020-08-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-05T17:00:00Z,NN1: delta guariti non negativi,Basilicata
-2020-08-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-08-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-08-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-08-07T17:00:00Z,NN1: delta guariti non negativi,Puglia
-2020-08-07T17:00:00Z,NN4: casi da screening >= 0,Marche
-2020-08-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-08-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-08-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-08-09T17:00:00Z,NN3: tamponi > 0,Basilicata
-2020-08-09T17:00:00Z,NN4: casi da screening >= 0,Marche
-2020-08-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-10T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-10T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-08-10T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-08-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-08-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-12T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-13T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-08-14T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-08-14T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-08-15T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-16T17:00:00Z,NN0: delta casi non negativo,Basilicata
-2020-08-16T17:00:00Z,NN4: casi da screening >= 0,Basilicata
-2020-08-16T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-08-16T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-17T17:00:00Z,NN1: delta guariti non negativi,Umbria
-2020-08-17T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-17T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-08-17T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-08-18T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-19T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-19T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-08-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-21T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-22T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-22T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-08-23T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-24T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-08-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Lombardia
-2020-08-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-25T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-08-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-08-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-08-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-29T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-30T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-08-30T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-31T17:00:00Z,NN1: delta guariti non negativi,Campania
-2020-08-31T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-08-31T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-09-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-09-01T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-02T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-09-03T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-04T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-05T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-06T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-07T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-09-08T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-09-09T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-10T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-11T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-12T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-12T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Puglia
-2020-09-12T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-09-13T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-14T17:00:00Z,NN4: casi da screening >= 0,Abruzzo
-2020-09-14T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-09-15T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-16T17:00:00Z,NN4: casi da screening >= 0,Valle d'Aosta
-2020-09-16T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-17T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-09-17T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-18T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-19T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-09-19T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-20T17:00:00Z,NN3: tamponi > 0,Abruzzo
-2020-09-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-21T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Liguria
-2020-09-21T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-21T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Campania
-2020-09-21T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Piemonte
-2020-09-22T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-23T17:00:00Z,NN1: delta guariti non negativi,Valle d'Aosta
-2020-09-23T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-23T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Campania
-2020-09-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Abruzzo
-2020-09-24T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-25T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-26T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-27T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-27T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-09-28T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
-2020-09-28T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-10-03T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-10-05T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-10-05T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-10-07T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Umbria
-2020-10-07T17:00:00Z,CC4: totale casi regione coerente con totale casi per provincia,P.A. Bolzano
-2020-10-08T17:00:00Z,CC2: casi testati < casi da sospetto + casi da screening,Umbria
-2020-10-08T17:00:00Z,CC4: totale casi regione coerente con totale casi per provincia,P.A. Bolzano
-2020-10-09T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-10-11T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-10-13T17:00:00Z,NN1: delta guariti non negativi,Abruzzo
-2020-10-17T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-10-18T17:00:00Z,NN4: casi da screening >= 0,Abruzzo
-2020-10-19T17:00:00Z,NN2: delta decessi non negativo,Veneto
-2020-10-19T17:00:00Z,CC1: testati nuovi <= tamponi nuovi,Basilicata
-2020-10-20T17:00:00Z,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-02-25,NN3: tamponi > 0,Abruzzo
+2020-02-25,NN3: tamponi > 0,Basilicata
+2020-02-25,NN3: tamponi > 0,Campania
+2020-02-25,NN3: tamponi > 0,Lazio
+2020-02-25,NN3: tamponi > 0,Molise
+2020-02-25,NN3: tamponi > 0,P.A. Bolzano
+2020-02-25,NN3: tamponi > 0,P.A. Trento
+2020-02-25,NN3: tamponi > 0,Piemonte
+2020-02-25,NN3: tamponi > 0,Puglia
+2020-02-25,NN3: tamponi > 0,Sardegna
+2020-02-25,NN3: tamponi > 0,Sicilia
+2020-02-25,NN3: tamponi > 0,Valle d'Aosta
+2020-02-25,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
+2020-02-25,CC0: casi nuovi <= tamponi nuovi,Sicilia
+2020-02-26,NN3: tamponi > 0,Basilicata
+2020-02-26,NN3: tamponi > 0,Campania
+2020-02-26,NN3: tamponi > 0,Lazio
+2020-02-26,NN3: tamponi > 0,Lombardia
+2020-02-26,NN3: tamponi > 0,Molise
+2020-02-26,NN3: tamponi > 0,P.A. Bolzano
+2020-02-26,NN3: tamponi > 0,P.A. Trento
+2020-02-26,NN3: tamponi > 0,Puglia
+2020-02-26,NN3: tamponi > 0,Sardegna
+2020-02-26,NN3: tamponi > 0,Sicilia
+2020-02-26,NN3: tamponi > 0,Umbria
+2020-02-26,NN3: tamponi > 0,Valle d'Aosta
+2020-02-26,CC0: casi nuovi <= tamponi nuovi,Lombardia
+2020-02-27,NN0: delta casi non negativo,Piemonte
+2020-02-27,NN3: tamponi > 0,Basilicata
+2020-02-27,NN3: tamponi > 0,Campania
+2020-02-27,NN3: tamponi > 0,Molise
+2020-02-27,NN3: tamponi > 0,Piemonte
+2020-02-27,NN3: tamponi > 0,Puglia
+2020-02-27,NN3: tamponi > 0,Sardegna
+2020-02-27,NN3: tamponi > 0,Sicilia
+2020-02-27,NN3: tamponi > 0,Umbria
+2020-02-27,CC0: casi nuovi <= tamponi nuovi,Campania
+2020-02-27,CC0: casi nuovi <= tamponi nuovi,Lombardia
+2020-02-27,CC0: casi nuovi <= tamponi nuovi,Puglia
+2020-02-27,CC0: casi nuovi <= tamponi nuovi,Sicilia
+2020-02-28,NN3: tamponi > 0,Abruzzo
+2020-02-28,NN3: tamponi > 0,Basilicata
+2020-02-28,NN3: tamponi > 0,Molise
+2020-02-28,NN3: tamponi > 0,P.A. Bolzano
+2020-02-28,NN3: tamponi > 0,P.A. Trento
+2020-02-28,NN3: tamponi > 0,Sardegna
+2020-02-28,NN3: tamponi > 0,Sicilia
+2020-02-28,NN3: tamponi > 0,Umbria
+2020-02-28,NN3: tamponi > 0,Valle d'Aosta
+2020-02-28,CC0: casi nuovi <= tamponi nuovi,Marche
+2020-02-29,NN3: tamponi > 0,Molise
+2020-02-29,NN3: tamponi > 0,Sardegna
+2020-02-29,NN3: tamponi > 0,Valle d'Aosta
+2020-02-29,CC0: casi nuovi <= tamponi nuovi,Liguria
+2020-03-01,NN0: delta casi non negativo,Liguria
+2020-03-01,NN3: tamponi > 0,Campania
+2020-03-01,NN3: tamponi > 0,Liguria
+2020-03-01,CC0: casi nuovi <= tamponi nuovi,Campania
+2020-03-02,NN0: delta casi non negativo,Liguria
+2020-03-02,NN0: delta casi non negativo,Sicilia
+2020-03-02,NN3: tamponi > 0,Abruzzo
+2020-03-02,NN3: tamponi > 0,Basilicata
+2020-03-02,NN3: tamponi > 0,Campania
+2020-03-02,NN3: tamponi > 0,Liguria
+2020-03-02,NN3: tamponi > 0,P.A. Bolzano
+2020-03-02,NN3: tamponi > 0,P.A. Trento
+2020-03-02,NN3: tamponi > 0,Sardegna
+2020-03-02,NN3: tamponi > 0,Umbria
+2020-03-03,NN3: tamponi > 0,Abruzzo
+2020-03-03,NN3: tamponi > 0,Calabria
+2020-03-03,NN3: tamponi > 0,Liguria
+2020-03-03,NN3: tamponi > 0,Molise
+2020-03-03,NN3: tamponi > 0,P.A. Bolzano
+2020-03-03,NN3: tamponi > 0,P.A. Trento
+2020-03-03,NN3: tamponi > 0,Sardegna
+2020-03-03,NN3: tamponi > 0,Sicilia
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,Abruzzo
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,Liguria
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,Molise
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-03,CC0: casi nuovi <= tamponi nuovi,Sardegna
+2020-03-04,NN3: tamponi > 0,P.A. Bolzano
+2020-03-04,NN3: tamponi > 0,P.A. Trento
+2020-03-04,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-05,NN3: tamponi > 0,P.A. Bolzano
+2020-03-05,NN3: tamponi > 0,P.A. Trento
+2020-03-05,NN3: tamponi > 0,Piemonte
+2020-03-05,NN3: tamponi > 0,Sicilia
+2020-03-05,NN3: tamponi > 0,Toscana
+2020-03-05,CC0: casi nuovi <= tamponi nuovi,Lombardia
+2020-03-05,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-05,CC0: casi nuovi <= tamponi nuovi,Piemonte
+2020-03-05,CC0: casi nuovi <= tamponi nuovi,Toscana
+2020-03-06,NN3: tamponi > 0,Abruzzo
+2020-03-06,NN3: tamponi > 0,Campania
+2020-03-06,NN3: tamponi > 0,P.A. Trento
+2020-03-06,NN3: tamponi > 0,Sicilia
+2020-03-06,CC0: casi nuovi <= tamponi nuovi,Abruzzo
+2020-03-06,CC0: casi nuovi <= tamponi nuovi,Campania
+2020-03-06,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-06,CC0: casi nuovi <= tamponi nuovi,Sicilia
+2020-03-07,NN3: tamponi > 0,Friuli Venezia Giulia
+2020-03-07,NN3: tamponi > 0,P.A. Bolzano
+2020-03-07,NN3: tamponi > 0,Puglia
+2020-03-07,NN3: tamponi > 0,Sardegna
+2020-03-07,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-03-07,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
+2020-03-07,CC0: casi nuovi <= tamponi nuovi,Puglia
+2020-03-08,NN3: tamponi > 0,Calabria
+2020-03-08,NN3: tamponi > 0,P.A. Bolzano
+2020-03-08,CC0: casi nuovi <= tamponi nuovi,Calabria
+2020-03-09,NN0: delta casi non negativo,Piemonte
+2020-03-09,NN3: tamponi > 0,Campania
+2020-03-09,NN3: tamponi > 0,Lazio
+2020-03-09,NN3: tamponi > 0,P.A. Bolzano
+2020-03-09,CC0: casi nuovi <= tamponi nuovi,Campania
+2020-03-09,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-03-09,CC0: casi nuovi <= tamponi nuovi,Veneto
+2020-03-10,NN3: tamponi > 0,P.A. Bolzano
+2020-03-10,CC0: casi nuovi <= tamponi nuovi,P.A. Bolzano
+2020-03-11,NN3: tamponi > 0,Abruzzo
+2020-03-11,NN3: tamponi > 0,Lazio
+2020-03-11,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-03-12,NN1: delta guariti non negativi,Calabria
+2020-03-12,NN3: tamponi > 0,Basilicata
+2020-03-13,NN3: tamponi > 0,Basilicata
+2020-03-13,CC0: casi nuovi <= tamponi nuovi,Basilicata
+2020-03-13,CC0: casi nuovi <= tamponi nuovi,Piemonte
+2020-03-14,NN1: delta guariti non negativi,Puglia
+2020-03-14,NN3: tamponi > 0,Basilicata
+2020-03-15,NN1: delta guariti non negativi,Liguria
+2020-03-15,NN3: tamponi > 0,P.A. Trento
+2020-03-15,NN3: tamponi > 0,Valle d'Aosta
+2020-03-15,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-03-15,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-15,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
+2020-03-16,NN3: tamponi > 0,P.A. Trento
+2020-03-16,NN3: tamponi > 0,Puglia
+2020-03-17,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-03-17,NN3: tamponi > 0,Marche
+2020-03-17,CC0: casi nuovi <= tamponi nuovi,Marche
+2020-03-18,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-03-18,NN3: tamponi > 0,Basilicata
+2020-03-18,NN3: tamponi > 0,Campania
+2020-03-18,NN3: tamponi > 0,Friuli Venezia Giulia
+2020-03-18,CC0: casi nuovi <= tamponi nuovi,Basilicata
+2020-03-18,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-03-19,NN3: tamponi > 0,Friuli Venezia Giulia
+2020-03-19,NN3: tamponi > 0,Lazio
+2020-03-19,CC0: casi nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-03-19,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-03-19,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-20,NN3: tamponi > 0,Molise
+2020-03-20,CC0: casi nuovi <= tamponi nuovi,Molise
+2020-03-21,NN1: delta guariti non negativi,Campania
+2020-03-21,NN3: tamponi > 0,Lazio
+2020-03-21,NN3: tamponi > 0,P.A. Trento
+2020-03-21,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-03-21,CC0: casi nuovi <= tamponi nuovi,P.A. Trento
+2020-03-23,NN2: delta decessi non negativo,Calabria
+2020-03-23,NN3: tamponi > 0,Molise
+2020-03-23,CC0: casi nuovi <= tamponi nuovi,Molise
+2020-03-24,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-03-24,NN3: tamponi > 0,Lazio
+2020-03-24,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-03-26,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
+2020-03-29,NN3: tamponi > 0,Emilia-Romagna
+2020-03-29,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
+2020-03-30,NN3: tamponi > 0,Emilia-Romagna
+2020-03-30,CC0: casi nuovi <= tamponi nuovi,Emilia-Romagna
+2020-04-03,NN1: delta guariti non negativi,Campania
+2020-04-05,NN3: tamponi > 0,Molise
+2020-04-05,CC0: casi nuovi <= tamponi nuovi,Lazio
+2020-04-05,CC0: casi nuovi <= tamponi nuovi,Molise
+2020-04-10,NN3: tamponi > 0,Molise
+2020-04-10,CC0: casi nuovi <= tamponi nuovi,Molise
+2020-04-12,NN1: delta guariti non negativi,P.A. Bolzano
+2020-04-14,NN3: tamponi > 0,Molise
+2020-04-15,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-04-17,NN0: delta casi non negativo,Calabria
+2020-04-17,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-04-18,NN1: delta guariti non negativi,Molise
+2020-04-18,NN3: tamponi > 0,Molise
+2020-04-19,NN1: delta guariti non negativi,Umbria
+2020-04-20,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-04-20,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-04-21,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-04-21,NN2: delta decessi non negativo,Valle d'Aosta
+2020-04-22,NN1: delta guariti non negativi,Campania
+2020-04-23,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-04-23,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-04-24,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-04-24,CC1: testati nuovi <= tamponi nuovi,Lazio
+2020-04-24,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-04-24,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
+2020-04-26,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-04-26,CC1: testati nuovi <= tamponi nuovi,Abruzzo
+2020-04-26,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-04-27,CC1: testati nuovi <= tamponi nuovi,Sicilia
+2020-04-27,CC1: testati nuovi <= tamponi nuovi,Veneto
+2020-04-28,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-04-29,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-04-29,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-04-29,CC1: testati nuovi <= tamponi nuovi,Sicilia
+2020-05-01,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-01,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
+2020-05-02,NN1: delta guariti non negativi,Valle d'Aosta
+2020-05-02,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-05-03,NN1: delta guariti non negativi,Valle d'Aosta
+2020-05-03,NN3: tamponi > 0,Molise
+2020-05-04,NN0: delta casi non negativo,Sardegna
+2020-05-04,NN1: delta guariti non negativi,Valle d'Aosta
+2020-05-04,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-05-06,NN1: delta guariti non negativi,Valle d'Aosta
+2020-05-06,CC1: testati nuovi <= tamponi nuovi,Sicilia
+2020-05-07,NN0: delta casi non negativo,Basilicata
+2020-05-07,CC1: testati nuovi <= tamponi nuovi,Lazio
+2020-05-07,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
+2020-05-08,NN0: delta casi non negativo,Basilicata
+2020-05-08,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
+2020-05-08,CC1: testati nuovi <= tamponi nuovi,Lombardia
+2020-05-09,NN1: delta guariti non negativi,Molise
+2020-05-09,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-10,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-05-10,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-10,CC1: testati nuovi <= tamponi nuovi,Sicilia
+2020-05-11,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-11,CC1: testati nuovi <= tamponi nuovi,Sicilia
+2020-05-13,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-14,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-05-15,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-05-16,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-05-18,CC1: testati nuovi <= tamponi nuovi,Campania
+2020-05-18,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
+2020-05-19,NN0: delta casi non negativo,Marche
+2020-05-19,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
+2020-05-20,CC1: testati nuovi <= tamponi nuovi,Marche
+2020-05-22,NN1: delta guariti non negativi,P.A. Trento
+2020-05-24,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-05-25,NN0: delta casi non negativo,Sardegna
+2020-05-26,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-05-28,NN1: delta guariti non negativi,Umbria
+2020-05-29,NN2: delta decessi non negativo,Marche
+2020-05-29,CC1: testati nuovi <= tamponi nuovi,P.A. Bolzano
+2020-05-30,NN3: tamponi > 0,Abruzzo
+2020-06-01,CC1: testati nuovi <= tamponi nuovi,Abruzzo
+2020-06-01,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-06-01,CC1: testati nuovi <= tamponi nuovi,Umbria
+2020-06-02,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-04,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-06-04,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-06-05,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-06,NN1: delta guariti non negativi,Valle d'Aosta
+2020-06-07,CC1: testati nuovi <= tamponi nuovi,Campania
+2020-06-08,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-06-08,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
+2020-06-09,NN0: delta casi non negativo,Sardegna
+2020-06-11,NN1: delta guariti non negativi,P.A. Bolzano
+2020-06-12,NN0: delta casi non negativo,Campania
+2020-06-12,NN1: delta guariti non negativi,Valle d'Aosta
+2020-06-12,NN2: delta decessi non negativo,P.A. Bolzano
+2020-06-15,NN0: delta casi non negativo,P.A. Bolzano
+2020-06-15,NN1: delta guariti non negativi,P.A. Bolzano
+2020-06-15,NN1: delta guariti non negativi,Valle d'Aosta
+2020-06-18,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-19,NN0: delta casi non negativo,Abruzzo
+2020-06-19,NN0: delta casi non negativo,Sicilia
+2020-06-20,NN1: delta guariti non negativi,Umbria
+2020-06-21,NN1: delta guariti non negativi,Veneto
+2020-06-22,NN1: delta guariti non negativi,P.A. Bolzano
+2020-06-22,NN1: delta guariti non negativi,Veneto
+2020-06-22,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-06-22,CC1: testati nuovi <= tamponi nuovi,Marche
+2020-06-22,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-06-23,NN0: delta casi non negativo,Sardegna
+2020-06-23,NN1: delta guariti non negativi,Liguria
+2020-06-23,NN3: tamponi > 0,Valle d'Aosta
+2020-06-23,CC0: casi nuovi <= tamponi nuovi,Valle d'Aosta
+2020-06-23,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-23,CC1: testati nuovi <= tamponi nuovi,Lazio
+2020-06-23,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
+2020-06-24,NN1: delta guariti non negativi,Liguria
+2020-06-24,NN2: delta decessi non negativo,P.A. Trento
+2020-06-24,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-25,NN2: delta decessi non negativo,Marche
+2020-06-26,NN1: delta guariti non negativi,Liguria
+2020-06-26,NN4: casi da screening >= 0,Marche
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Emilia-Romagna
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Toscana
+2020-06-26,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
+2020-06-27,NN1: delta guariti non negativi,Umbria
+2020-06-27,NN4: casi da screening >= 0,Marche
+2020-06-27,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-06-27,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-06-27,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-06-27,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-06-27,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-06-27,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-06-28,NN1: delta guariti non negativi,Liguria
+2020-06-28,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-06-28,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-06-29,NN5: casi da sospetto diagnostico >= 0,Calabria
+2020-06-29,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-06-29,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-06-29,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-06-30,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Lombardia
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-06-30,NN5: casi da sospetto diagnostico >= 0,Toscana
+2020-07-01,NN0: delta casi non negativo,Puglia
+2020-07-01,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-01,NN2: delta decessi non negativo,Marche
+2020-07-01,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-01,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-01,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-01,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-02,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-02,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-02,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-02,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-02,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
+2020-07-02,CC1: testati nuovi <= tamponi nuovi,Sardegna
+2020-07-03,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-03,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-03,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-03,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-03,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-07-04,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-04,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-04,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-05,NN1: delta guariti non negativi,Valle d'Aosta
+2020-07-05,NN3: tamponi > 0,Basilicata
+2020-07-05,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-05,NN5: casi da sospetto diagnostico >= 0,Basilicata
+2020-07-05,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-05,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-05,CC1: testati nuovi <= tamponi nuovi,Sardegna
+2020-07-06,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-06,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-06,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-06,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-06,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-07-06,CC1: testati nuovi <= tamponi nuovi,Sardegna
+2020-07-07,NN0: delta casi non negativo,Puglia
+2020-07-07,NN1: delta guariti non negativi,Sardegna
+2020-07-07,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-07,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-07,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-08,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-08,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-08,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-08,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-08,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-09,NN5: casi da sospetto diagnostico >= 0,Emilia-Romagna
+2020-07-09,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-09,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-09,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
+2020-07-10,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-10,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-10,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-11,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-11,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-11,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-11,NN5: casi da sospetto diagnostico >= 0,Umbria
+2020-07-12,NN1: delta guariti non negativi,Campania
+2020-07-12,NN1: delta guariti non negativi,P.A. Bolzano
+2020-07-12,NN3: tamponi > 0,Basilicata
+2020-07-12,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-12,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-12,CC1: testati nuovi <= tamponi nuovi,Valle d'Aosta
+2020-07-13,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-13,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-13,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-13,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-13,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-13,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-07-14,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-14,NN1: delta guariti non negativi,Valle d'Aosta
+2020-07-14,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-14,NN5: casi da sospetto diagnostico >= 0,Lombardia
+2020-07-14,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-14,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-15,NN0: delta casi non negativo,Basilicata
+2020-07-15,NN1: delta guariti non negativi,Basilicata
+2020-07-15,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-15,NN4: casi da screening >= 0,Basilicata
+2020-07-15,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-15,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-15,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-16,NN1: delta guariti non negativi,P.A. Bolzano
+2020-07-16,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-16,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-17,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-17,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-18,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-18,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-19,NN0: delta casi non negativo,Marche
+2020-07-19,NN1: delta guariti non negativi,Valle d'Aosta
+2020-07-19,NN3: tamponi > 0,Basilicata
+2020-07-19,NN5: casi da sospetto diagnostico >= 0,Marche
+2020-07-19,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-19,CC0: casi nuovi <= tamponi nuovi,Basilicata
+2020-07-19,CC2: casi testati < casi da sospetto + casi da screening,Basilicata
+2020-07-20,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-20,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-20,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-07-21,NN0: delta casi non negativo,Puglia
+2020-07-21,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-21,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-22,NN0: delta casi non negativo,Abruzzo
+2020-07-22,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-22,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-22,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-22,CC1: testati nuovi <= tamponi nuovi,Sardegna
+2020-07-23,NN4: casi da screening >= 0,Molise
+2020-07-23,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-23,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-24,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-24,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-24,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-24,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-07-25,NN1: delta guariti non negativi,Piemonte
+2020-07-25,NN1: delta guariti non negativi,Puglia
+2020-07-25,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-25,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-25,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-07-26,NN3: tamponi > 0,Basilicata
+2020-07-26,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-07-26,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-26,CC1: testati nuovi <= tamponi nuovi,Campania
+2020-07-26,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-07-27,NN0: delta casi non negativo,Sardegna
+2020-07-27,NN1: delta guariti non negativi,Friuli Venezia Giulia
+2020-07-27,NN3: tamponi > 0,Abruzzo
+2020-07-27,NN4: casi da screening >= 0,Sardegna
+2020-07-27,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-27,CC0: casi nuovi <= tamponi nuovi,Abruzzo
+2020-07-27,CC1: testati nuovi <= tamponi nuovi,Abruzzo
+2020-07-27,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
+2020-07-27,CC2: casi testati < casi da sospetto + casi da screening,Abruzzo
+2020-07-28,NN0: delta casi non negativo,P.A. Bolzano
+2020-07-28,NN1: delta guariti non negativi,Veneto
+2020-07-28,NN2: delta decessi non negativo,Sardegna
+2020-07-28,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-28,NN5: casi da sospetto diagnostico >= 0,P.A. Bolzano
+2020-07-28,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-29,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-30,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-31,NN1: delta guariti non negativi,Liguria
+2020-07-31,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-07-31,NN5: casi da sospetto diagnostico >= 0,Lombardia
+2020-07-31,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-07-31,CC1: testati nuovi <= tamponi nuovi,Sardegna
+2020-08-01,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-02,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-08-02,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-02,NN5: casi da sospetto diagnostico >= 0,Valle d'Aosta
+2020-08-03,NN4: casi da screening >= 0,Friuli Venezia Giulia
+2020-08-03,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-03,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-03,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-08-04,NN4: casi da screening >= 0,Valle d'Aosta
+2020-08-04,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-04,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-05,NN1: delta guariti non negativi,Basilicata
+2020-08-05,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-05,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-05,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-08-06,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-08-06,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-06,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-08-07,NN1: delta guariti non negativi,Puglia
+2020-08-07,NN4: casi da screening >= 0,Marche
+2020-08-07,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-07,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-08-08,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-08-08,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-08,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-08-09,NN3: tamponi > 0,Basilicata
+2020-08-09,NN4: casi da screening >= 0,Marche
+2020-08-09,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-10,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-10,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-08-10,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-08-11,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-08-11,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-12,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-13,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-13,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-08-14,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-08-14,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-08-15,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-16,NN0: delta casi non negativo,Basilicata
+2020-08-16,NN4: casi da screening >= 0,Basilicata
+2020-08-16,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-08-16,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-17,NN1: delta guariti non negativi,Umbria
+2020-08-17,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-17,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-08-17,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-08-18,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-19,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-19,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-08-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-21,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-22,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-22,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-08-23,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-24,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-24,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-08-25,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-25,NN5: casi da sospetto diagnostico >= 0,Lombardia
+2020-08-25,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-25,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-08-26,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-27,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-27,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-27,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-08-28,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-08-28,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-29,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-30,NN1: delta guariti non negativi,Valle d'Aosta
+2020-08-30,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-31,NN1: delta guariti non negativi,Campania
+2020-08-31,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-08-31,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-09-01,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-09-01,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-02,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-03,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-09-03,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-04,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-05,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-06,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-07,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-08,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-09-08,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-09,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-09-09,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-10,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-11,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-12,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-12,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-09-12,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-09-13,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-14,NN4: casi da screening >= 0,Abruzzo
+2020-09-14,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-09-15,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-16,NN4: casi da screening >= 0,Valle d'Aosta
+2020-09-16,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-17,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-09-17,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-18,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-19,NN3: tamponi > 0,Abruzzo
+2020-09-19,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-20,NN3: tamponi > 0,Abruzzo
+2020-09-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-21,NN5: casi da sospetto diagnostico >= 0,Liguria
+2020-09-21,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-21,CC1: testati nuovi <= tamponi nuovi,Campania
+2020-09-21,CC1: testati nuovi <= tamponi nuovi,Piemonte
+2020-09-22,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-23,NN1: delta guariti non negativi,Valle d'Aosta
+2020-09-23,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-23,CC1: testati nuovi <= tamponi nuovi,Campania
+2020-09-24,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-09-24,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-25,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-26,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-27,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-27,CC1: testati nuovi <= tamponi nuovi,Molise
+2020-09-28,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-09-28,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-10-03,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-10-05,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-10-05,CC1: testati nuovi <= tamponi nuovi,Puglia
+2020-10-07,CC1: testati nuovi <= tamponi nuovi,Umbria
+2020-10-08,CC2: casi testati < casi da sospetto + casi da screening,Umbria
+2020-10-08,CC4: totale casi regione coerente con totale casi per provincia,P.A. Bolzano
+2020-10-09,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-10-11,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-10-13,NN1: delta guariti non negativi,Abruzzo
+2020-10-17,CC1: testati nuovi <= tamponi nuovi,Calabria
+2020-10-18,NN4: casi da screening >= 0,Abruzzo
+2020-10-19,NN2: delta decessi non negativo,Veneto
+2020-10-19,CC1: testati nuovi <= tamponi nuovi,Basilicata
+2020-10-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
+2020-10-22,CC2: casi testati < casi da sospetto + casi da screening,P.A. Trento
