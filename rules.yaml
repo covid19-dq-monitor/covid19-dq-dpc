@@ -45,3 +45,6 @@ rules:
 
 - expr: 'delta_totale_casi == delta_totale_casi_cons'
   name: 'CC4: totale casi regione coerente con totale casi per provincia'
+
+- expr: 'delta_totale_casi <= delta_casi_testati'
+  name: 'CC5: totale nuovi casi <= nuovi casi testati '
