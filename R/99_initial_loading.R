@@ -93,7 +93,7 @@ for (d in unique(delta$data)[2:length(unique(delta$data))]) {
     as.data.frame() %>%
     gather() %>%
     mutate(
-      date = d,
+      date = as.Date(as.POSIXct(d, origin = "1970-01-01", tz = "GMT"),
       region = rep(delta_day$denominazione_regione,
                    times = length(fails_day$name)),
       key = vec_key
@@ -111,7 +111,6 @@ for (d in unique(delta$data)[2:length(unique(delta$data))]) {
   }
 }
  append <- append %>% 
-   mutate(date = as.Date(as.POSIXct(date, origin = "1970-01-01", tz= "GMT"))) %>%
 	 readr::write_csv("output/failed-checks-history.csv")
  latest %>% write.csv("output/failed-checks-latest.csv")
  
