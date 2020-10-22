@@ -39,7 +39,7 @@ link <- paste("I risultati sono scaricabili da", p)
 ttweet <- paste(salutation, centro, link)
 ttweet
 
-if(exists(latest)){
+if(exists("latest")){
   png("/tmp/latest.png", width=480,height=480,bg = "white")
   grid.table(latest)
   dev.off()
