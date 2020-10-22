@@ -86,31 +86,29 @@ for (d in unique(delta$data)[2:length(unique(delta$data))]) {
   fails_day <- filter(summary(results_delta), fails > 0) %>%
     select(name) %>%
     mutate(date = d)
-  if(nrow(fails_day > 0)){
-  vec_len <- rep(21, times = length(fails_day$name))
-  vec_key <- rep(fails_day$name, times = vec_len)
-  x <- values(results_delta)[[1]][, fails_day$name] %>%
-    as.data.frame() %>%
-    gather() %>%
-    mutate(
-      date = as.Date(as.POSIXct(d, origin = "1970-01-01", tz = "GMT"),
-      region = rep(delta_day$denominazione_regione,
-                   times = length(fails_day$name)),
-      key = vec_key
-    ) %>%
-    filter(value == FALSE) %>%
-    select(date, failed_check = key, region)
+  if (nrow(fails_day > 0)) {
+    vec_len <- rep(21, times = length(fails_day$name))
+    vec_key <- rep(fails_day$name, times = vec_len)
+    x <- values(results_delta)[[1]][, fails_day$name] %>%
+      as.data.frame() %>%
+      gather() %>%
+      mutate(date = as.Date(as.POSIXct(d, origin = "1970-01-01", tz = "GMT")),
+          region = rep(delta_day$denominazione_regione,
+                       times = length(fails_day$name)),
+          key = vec_key
+        ) %>%
+          filter(value == FALSE) %>%
+          select(date, failed_check = key, region)
   }
-  if(d == unique(delta$data)[2]){
+  if (d == unique(delta$data)[2]) {
     append <- x
   } else {
     append <- union(append, x)
   }
-  if(as.Date(as.POSIXct(d,origin = "1970-01-01", tz= "GMT")) == Sys.Date()){
+  if (as.Date(as.POSIXct(d, origin = "1970-01-01", tz = "GMT")) == Sys.Date()) {
     latest <- x
   }
 }
- append <- append %>% 
-	 readr::write_csv("output/failed-checks-history.csv")
- latest %>% write.csv("output/failed-checks-latest.csv")
- 
+append <- append %>%
+  readr::write_csv("output/failed-checks-history.csv")
+latest %>% write.csv("output/failed-checks-latest.csv")
