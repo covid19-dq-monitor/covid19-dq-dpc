@@ -15,8 +15,8 @@ cols <- cols(
 # dummy date to engage the cycle
 today <- as.Date("1900-01-01")
 
-while(today != Sys.Date()) {
-  Sys.sleep(60)
+while(today != as.Date(Sys.Date())) {
+  Sys.sleep(10)
   regioni_raw <-
     readr::read_csv(
       'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv',
