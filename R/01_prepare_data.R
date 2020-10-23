@@ -18,7 +18,6 @@ today <- as.Date("1900-01-01")
 while(as.character(as.Date(today)) != Sys.Date()) {
 	print("in!")
 	print(today)
-	print(as.Date(Sys.Date))
   Sys.sleep(10)
   regioni_raw <-
     readr::read_csv(

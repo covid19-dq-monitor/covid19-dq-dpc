@@ -186,15 +186,15 @@ date,failed_check,region
 2020-04-19,NN1: delta guariti non negativi,Umbria
 2020-04-20,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
 2020-04-20,CC1: testati nuovi <= tamponi nuovi,Molise
-2020-04-20,CC5: totale nuovi casi <= nuovi casi testati ,Lombardia
+2020-04-20,CC5: totale nuovi casi  <= nuovi casi testati ,Lombardia
 2020-04-21,NN1: delta guariti non negativi,Friuli Venezia Giulia
 2020-04-21,NN2: delta decessi non negativo,Valle d'Aosta
-2020-04-21,CC5: totale nuovi casi <= nuovi casi testati ,Lombardia
+2020-04-21,CC5: totale nuovi casi  <= nuovi casi testati ,Lombardia
 2020-04-22,NN1: delta guariti non negativi,Campania
-2020-04-22,CC5: totale nuovi casi <= nuovi casi testati ,P.A. Trento
+2020-04-22,CC5: totale nuovi casi  <= nuovi casi testati ,P.A. Trento
 2020-04-23,CC1: testati nuovi <= tamponi nuovi,Molise
 2020-04-23,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-23,CC5: totale nuovi casi <= nuovi casi testati ,Campania
+2020-04-23,CC5: totale nuovi casi  <= nuovi casi testati ,Campania
 2020-04-24,NN1: delta guariti non negativi,Friuli Venezia Giulia
 2020-04-24,CC1: testati nuovi <= tamponi nuovi,Lazio
 2020-04-24,CC1: testati nuovi <= tamponi nuovi,Puglia
@@ -202,8 +202,8 @@ date,failed_check,region
 2020-04-26,NN1: delta guariti non negativi,Friuli Venezia Giulia
 2020-04-26,CC1: testati nuovi <= tamponi nuovi,Abruzzo
 2020-04-26,CC1: testati nuovi <= tamponi nuovi,Puglia
-2020-04-26,CC5: totale nuovi casi <= nuovi casi testati ,Valle d'Aosta
-2020-04-26,CC5: totale nuovi casi <= nuovi casi testati ,Veneto
+2020-04-26,CC5: totale nuovi casi  <= nuovi casi testati ,Valle d'Aosta
+2020-04-26,CC5: totale nuovi casi  <= nuovi casi testati ,Veneto
 2020-04-27,CC1: testati nuovi <= tamponi nuovi,Sicilia
 2020-04-27,CC1: testati nuovi <= tamponi nuovi,Veneto
 2020-04-28,CC1: testati nuovi <= tamponi nuovi,Puglia
@@ -224,8 +224,8 @@ date,failed_check,region
 2020-05-07,NN0: delta casi non negativo,Basilicata
 2020-05-07,CC1: testati nuovi <= tamponi nuovi,Lazio
 2020-05-07,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
-2020-05-07,CC5: totale nuovi casi <= nuovi casi testati ,Lombardia
-2020-05-07,CC5: totale nuovi casi <= nuovi casi testati ,Puglia
+2020-05-07,CC5: totale nuovi casi  <= nuovi casi testati ,Lombardia
+2020-05-07,CC5: totale nuovi casi  <= nuovi casi testati ,Puglia
 2020-05-08,NN0: delta casi non negativo,Basilicata
 2020-05-08,CC1: testati nuovi <= tamponi nuovi,Friuli Venezia Giulia
 2020-05-08,CC1: testati nuovi <= tamponi nuovi,Lombardia
@@ -242,31 +242,31 @@ date,failed_check,region
 2020-05-16,CC1: testati nuovi <= tamponi nuovi,Calabria
 2020-05-18,CC1: testati nuovi <= tamponi nuovi,Campania
 2020-05-18,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
-2020-05-18,CC5: totale nuovi casi <= nuovi casi testati ,P.A. Trento
+2020-05-18,CC5: totale nuovi casi  <= nuovi casi testati ,P.A. Trento
 2020-05-19,NN0: delta casi non negativo,Marche
 2020-05-19,CC1: testati nuovi <= tamponi nuovi,P.A. Trento
 2020-05-20,CC1: testati nuovi <= tamponi nuovi,Marche
 2020-05-22,NN1: delta guariti non negativi,P.A. Trento
-2020-05-22,CC5: totale nuovi casi <= nuovi casi testati ,Puglia
+2020-05-22,CC5: totale nuovi casi  <= nuovi casi testati ,Puglia
 2020-05-24,CC1: testati nuovi <= tamponi nuovi,Puglia
 2020-05-25,NN0: delta casi non negativo,Sardegna
-2020-05-25,CC5: totale nuovi casi <= nuovi casi testati ,P.A. Trento
+2020-05-25,CC5: totale nuovi casi  <= nuovi casi testati ,P.A. Trento
 2020-05-26,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-05-28,NN1: delta guariti non negativi,Umbria
-2020-05-28,CC5: totale nuovi casi <= nuovi casi testati ,P.A. Bolzano
+2020-05-28,CC5: totale nuovi casi  <= nuovi casi testati ,P.A. Bolzano
 2020-05-29,NN2: delta decessi non negativo,Marche
 2020-05-29,CC1: testati nuovi <= tamponi nuovi,P.A. Bolzano
 2020-05-30,NN3: tamponi > 0,Abruzzo
 2020-06-01,CC1: testati nuovi <= tamponi nuovi,Abruzzo
 2020-06-01,CC1: testati nuovi <= tamponi nuovi,Puglia
 2020-06-01,CC1: testati nuovi <= tamponi nuovi,Umbria
-2020-06-01,CC5: totale nuovi casi <= nuovi casi testati ,Friuli Venezia Giulia
+2020-06-01,CC5: totale nuovi casi  <= nuovi casi testati ,Friuli Venezia Giulia
 2020-06-02,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-03,CC5: totale nuovi casi <= nuovi casi testati ,Umbria
+2020-06-03,CC5: totale nuovi casi  <= nuovi casi testati ,Umbria
 2020-06-04,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-06-04,CC1: testati nuovi <= tamponi nuovi,Molise
 2020-06-05,CC1: testati nuovi <= tamponi nuovi,Calabria
-2020-06-05,CC5: totale nuovi casi <= nuovi casi testati ,Basilicata
+2020-06-05,CC5: totale nuovi casi  <= nuovi casi testati ,Basilicata
 2020-06-06,NN1: delta guariti non negativi,Valle d'Aosta
 2020-06-07,CC1: testati nuovi <= tamponi nuovi,Campania
 2020-06-08,CC1: testati nuovi <= tamponi nuovi,Puglia
@@ -425,7 +425,7 @@ date,failed_check,region
 2020-07-19,NN5: casi da sospetto diagnostico >= 0,Piemonte
 2020-07-19,CC0: casi nuovi <= tamponi nuovi,Basilicata
 2020-07-19,CC2: casi testati < casi da sospetto + casi da screening,Basilicata
-2020-07-19,CC5: totale nuovi casi <= nuovi casi testati ,Basilicata
+2020-07-19,CC5: totale nuovi casi  <= nuovi casi testati ,Basilicata
 2020-07-20,NN5: casi da sospetto diagnostico >= 0,Liguria
 2020-07-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
 2020-07-20,NN5: casi da sospetto diagnostico >= 0,Puglia
@@ -464,7 +464,7 @@ date,failed_check,region
 2020-07-27,CC1: testati nuovi <= tamponi nuovi,Abruzzo
 2020-07-27,CC1: testati nuovi <= tamponi nuovi,Emilia-Romagna
 2020-07-27,CC2: casi testati < casi da sospetto + casi da screening,Abruzzo
-2020-07-27,CC5: totale nuovi casi <= nuovi casi testati ,Abruzzo
+2020-07-27,CC5: totale nuovi casi  <= nuovi casi testati ,Abruzzo
 2020-07-28,NN0: delta casi non negativo,P.A. Bolzano
 2020-07-28,NN1: delta guariti non negativi,Veneto
 2020-07-28,NN2: delta decessi non negativo,Sardegna
@@ -603,8 +603,7 @@ date,failed_check,region
 2020-10-05,CC1: testati nuovi <= tamponi nuovi,Puglia
 2020-10-07,CC1: testati nuovi <= tamponi nuovi,Umbria
 2020-10-08,CC2: casi testati < casi da sospetto + casi da screening,Umbria
-2020-10-08,CC4: totale casi regione coerente con totale casi per provincia,P.A. Bolzano
-2020-10-08,CC5: totale nuovi casi <= nuovi casi testati ,Umbria
+2020-10-08,CC5: totale nuovi casi  <= nuovi casi testati ,Umbria
 2020-10-09,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-10-11,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-10-13,NN1: delta guariti non negativi,Abruzzo
@@ -614,4 +613,4 @@ date,failed_check,region
 2020-10-19,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-10-20,NN5: casi da sospetto diagnostico >= 0,Piemonte
 2020-10-22,CC2: casi testati < casi da sospetto + casi da screening,P.A. Trento
-2020-10-22,CC5: totale nuovi casi <= nuovi casi testati ,P.A. Trento
+2020-10-22,CC5: totale nuovi casi  <= nuovi casi testati ,P.A. Trento
