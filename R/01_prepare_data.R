@@ -15,7 +15,10 @@ cols <- cols(
 # dummy date to engage the cycle
 today <- as.Date("1900-01-01")
 
-while(today != as.Date(Sys.Date())) {
+while(as.Date(today) != as.Date(Sys.Date())) {
+	print("in!")
+	print(today)
+	print(as.Date(Sys.Dat))
   Sys.sleep(10)
   regioni_raw <-
     readr::read_csv(
