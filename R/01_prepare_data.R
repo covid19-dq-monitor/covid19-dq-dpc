@@ -15,7 +15,7 @@ cols <- cols(
 # dummy date to engage the cycle
 today <- as.Date("1900-01-01")
 
-while(as.character(as.Date(today)) != as.Date(Sys.Date())) {
+while(as.character(as.Date(today)) != Sys.Date()) {
 	print("in!")
 	print(today)
 	print(as.Date(Sys.Date))
