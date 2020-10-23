@@ -15,7 +15,7 @@ cols <- cols(
 # dummy date to engage the cycle
 today <- as.Date("1900-01-01")
 
-while(as.character(as.Date(today)) != Sys.Date()) {
+while(as.character(today) != Sys.Date()) {
 	print("in!")
 	print(today)
   Sys.sleep(10)
@@ -25,7 +25,7 @@ while(as.character(as.Date(today)) != Sys.Date()) {
       col_types = cols
     )
   
-  today <- max(regioni_raw$data)
+  today <- as.Date(max(regioni_raw$data))
 }
 
 #for raw
