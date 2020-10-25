@@ -13,11 +13,11 @@ cols <- cols(
   note = col_character()
 )
 # dummy date to engage the cycle
-today <- as.Date("1900-01-01")
+switch <- as.Date("1900-01-01")
 
-while(as.character(today) != Sys.Date()) {
+while(as.character(switch) != Sys.Date()) {
 	print("in!")
-	print(today)
+	print(switch)
   Sys.sleep(10)
   regioni_raw <-
     readr::read_csv(
@@ -25,7 +25,8 @@ while(as.character(today) != Sys.Date()) {
       col_types = cols
     )
   
-  today <- as.Date(max(regioni_raw$data))
+  today <- max(regioni_raw$data)
+  switch <- as.Date(today)
 }
 
 #for raw
