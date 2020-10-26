@@ -45,6 +45,7 @@ if(exists("latest")){
   dev.off()
   
   post_tweet(ttweet, media ="/tmp/latest.png")
+  system("rm /tmp/latest.png")
 } else {
   post_tweet(ttweet)
 }
