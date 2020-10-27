@@ -6,3 +6,6 @@ source("~/Projects/covid19-dq-dpc/R/02_apply_checks.R")
 source("~/Projects/covid19-dq-dpc/R/03_report_results.R")
 source("~/Projects/covid19-dq-dpc/R/99_initial_loading.R")
 source("~/Projects/covid19-dq-dpc/R/04_tweet_report.R")
+
+
+barplot(results_delta)
