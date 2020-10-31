@@ -17,5 +17,18 @@
 10                             CC1: testati nuovi <= tamponi nuovi    21     21     0   0 FALSE   FALSE                        (delta_casi_testati - delta_tamponi) <= 1e-08
 11        CC2: casi testati < casi da sospetto + casi da screening    21     21     0   0 FALSE   FALSE   (delta_casi_screening + delta_casi_sospetto) <= delta_casi_testati
 12     CC3: ricoverati + terapia_intensiva == totale_ospedalizzati    21     21     0   0 FALSE   FALSE (ricoverati_con_sintomi + terapia_intensiva) == totale_ospedalizzati
-13 CC4: totale casi regione coerente con totale casi per provincia    21      0     0  21 FALSE   FALSE              abs(delta_totale_casi - delta_totale_casi_cons) < 1e-08
+13 CC4: totale casi regione coerente con totale casi per provincia    21     21     0   0 FALSE   FALSE              abs(delta_totale_casi - delta_totale_casi_cons) < 1e-08
 14                  CC5: totale nuovi casi  <= nuovi casi testati     21     21     0   0 FALSE   FALSE                    (delta_totale_casi - delta_casi_testati) <= 1e-08
+
+
+
+##############################################################
+##################  DETAILS  #################################
+##############################################################
+
+
+Details: ------ Check NN5: casi da sospetto diagnostico >= 0 --------
+
+                  data denominazione_regione ricoverati_con_sintomi terapia_intensiva totale_ospedalizzati delta_ricoverati delta_terapia_intensiva delta_ospedalizzati delta_isolamento_domiciliare delta_casi_testati delta_deceduti delta_casi_screening delta_casi_sospetto delta_totale_positivi delta_dimessi_guariti delta_totale_casi delta_tamponi delta_totale_casi_cons
+15 2020-10-31 17:00:00                Puglia                    638                87                  725                4                       3                   7                          687               4922             10                  802                 -40                   694                    58               762          6279                    762
+------------------------------------------------
