@@ -618,3 +618,5 @@ date,failed_check,region
 2020-10-28,CC1: testati nuovi <= tamponi nuovi,Basilicata
 2020-10-30,NN4: casi da screening >= 0,Marche
 2020-10-31,NN5: casi da sospetto diagnostico >= 0,Puglia
+2020-11-01,NN5: casi da sospetto diagnostico >= 0,Abruzzo
+2020-11-02,CC1: testati nuovi <= tamponi nuovi,Calabria
